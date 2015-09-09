@@ -2,7 +2,6 @@
 
 ###Example Usage
 
-###Example Usage
 - Fork this repository
 - Clone your forked repository to your computer
 - execute `justrelease.sh [your-account-name]/justrelease-sample-npm patch`
