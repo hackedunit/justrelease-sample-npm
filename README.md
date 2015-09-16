@@ -12,3 +12,4 @@ Default configs are used.
 
 If you want to make specific configuration, you may want to look this [sample application](https://github.com/justrelease/justrelease-sample-maven) or JustRelease [readme page](https://github.com/justrelease/justrelease/blob/master/README.md)
 
+ 
